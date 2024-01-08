@@ -1,0 +1,8 @@
+marks=c(70,95,80,74,56)
+subname=c("cpp","DS","DM","java","python")
+barplot(marks,
+	main="comparing marks of 5 subjects",
+	xlab="Name of subject",
+	ylab="marks",
+	names.arg=subname,
+	col="lightpink")

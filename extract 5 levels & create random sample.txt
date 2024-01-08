@@ -1,0 +1,5 @@
+f1=factor(sample(LETTERS,size=50,replace=TRUE))
+
+print(f1)
+
+print(f1[1:5])

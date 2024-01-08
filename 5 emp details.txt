@@ -1,0 +1,7 @@
+Employees = data.frame(Name=c("Pratiksha","Pratik","Bhakti", "Pooja","Ajay"),
+                      Gender=c("F","M","F","F","M"),
+                      Age=c(23,22,25,26,32),
+                      Designation=c("Clerk","Manager","Exective","CEO","ASSISTANT")
+                      )
+print("Details of the employees:")                      
+print(Employees)

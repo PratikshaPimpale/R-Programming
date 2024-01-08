@@ -1,0 +1,4 @@
+a=c(20,30,45,10,90,88,65)
+sprintf("Mean=%f",mean(a))
+sprintf("Sum=%d",sum(a))
+sprintf("Product=%f",prod(a))

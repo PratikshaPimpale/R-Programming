@@ -1,0 +1,9 @@
+f1=factor(sample(LETTERS,size=5))
+print(f1)
+
+f2=factor(sample(LETTERS,size=5))
+print(f2)
+
+f3=factor(c(f1,f2))
+f3=sort(f3)
+print(f3)

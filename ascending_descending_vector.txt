@@ -1,0 +1,7 @@
+a=c(20,66,30,78,10,12,35)
+m=sort(a)
+sprintf("Ascending order=")
+print(m)
+n=sort(a,decreasing=TRUE)
+sprintf("Decending order=")
+print(n)

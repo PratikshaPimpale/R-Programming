@@ -1,0 +1,3 @@
+a=c(20,30,50,10,44,78,39)
+sprintf("Maximum value=%d",max(a))
+sprintf("Minimum value=%d",min(a))

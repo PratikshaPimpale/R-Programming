@@ -1,0 +1,5 @@
+plot.new()
+print("empty plot specify the axes limits of the graph")
+plot(1,type="n",xlab="x message",
+ylab="y message",xlim=c(0,50),
+ylim=c(0,20));
